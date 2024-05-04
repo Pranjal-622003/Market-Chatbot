@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_experimental
+pymysql
+cryptography
+chromadb
+google-generativeai
+sentence-transformers
